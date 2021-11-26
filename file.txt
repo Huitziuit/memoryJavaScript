@@ -1,0 +1,1 @@
+file make syncronous mode

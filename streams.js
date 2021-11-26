@@ -1,0 +1,7 @@
+process.stdin.resume()
+process.stdin.setEncoding("ascii")
+
+process.stdin.on('data',function(myData){
+    process.stdout.write(myData)
+   
+})
